@@ -1,4 +1,4 @@
--- SQL day 01 강의노트
+w-- SQL day 01 강의노트
 
 -- 1) 세션 설정 변경 : 명령어 ctrl + Enter로 설정
 ALTER SESSION SET "_ORACLE_SCRIPT"=TRUE;
